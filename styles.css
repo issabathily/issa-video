@@ -1,0 +1,186 @@
+body{
+    background-color:  #e2c2b32b;
+    #f7f3f5;
+font-family: Tahoma, Geneva, Verdana, sans-serif;
+
+   
+}
+
+.barnav ul { 
+    position: relative;
+    display: flex;
+    text-decoration: none;
+   list-style: none;
+   gap: 2rem;
+   align-items: center;
+   left: 60%;
+   top: 0%;
+
+}
+header{
+    display: flex;
+    position: fixed ;
+    right: 0;
+    top: 0;
+    left: 0;
+    margin: 0;
+   
+    background-color: #e2c2b393; 
+  
+}
+ nav{
+     display:flex;
+     justify-content: space-between;
+     flex-direction: center ;
+   
+    
+}
+nav, a{
+    list-style: none;
+    text-decoration: none;
+    color:black;
+   
+}
+.abboner{
+    display: flex;
+    position: relative;
+    left: 35%;
+    gap: 2px;
+    align-items: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.abboner button{
+    padding: 8px;
+   
+}
+.espaces{
+   padding-bottom:13px ;
+}
+.acceuil{
+  
+    background-color: rgba(240, 248, 255, 0.776);
+    padding: 30px;
+
+  
+}
+li{
+    padding: 5px;
+}
+a:hover{
+    border-bottom: solid 2px ;
+    transition: all 1s ;
+}
+li:hover{
+    cursor: pointer;
+transition: ease;
+transform: scale(1.05);
+transition: all;
+
+}
+.coran{
+   
+position: relative;
+
+    align-items: center;
+    padding: 40px;
+   border-radius: 5px;
+    margin: 5%;
+    background-color: rgba(197, 197, 226, 0.737);
+    width: 50%;
+    margin-right: 30px;
+}
+.corans{
+    
+    position: relative;
+
+
+    align-items: center;
+    padding: 40px;
+   border-radius: 5px;
+    margin: 5%;
+    background-color:  rgba(197, 197, 226, 0.737);
+    width: 50%;
+    margin-right: 30px;
+
+}
+.issa{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+.formantion{
+    padding: 20px;
+    width: 30%;
+    background-color: #e2c2b32b;
+    margin: 3%;
+    border-radius: 5px;
+
+}
+.one button{
+    padding: 12px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px ;
+    border: blueviolet;
+    position: relative;
+    left: 15%;
+}
+.info{
+    position: relative;
+    left: 65%;
+    top: -90%;
+    ma
+}
+.mouhamed{
+    position: relative;
+    margin: 5%;
+}
+.conection{
+  
+    background-color: bisque;
+}
+.priere{
+    padding: 20px;
+    width: 30%;
+    background-color: #e2c2b32b;
+    margin: 3%;
+    border-radius: 5px;
+}
+.contener{
+    display: flex;
+    flex-direction: row;
+}
+.two{
+    padding: 12px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px ;
+    border: blueviolet;
+    position: relative;
+  align-items: center;
+ margin-top: 4%;
+    margin-left: 22%;
+}
+.qizz{
+    padding: 20px;
+    width: 30%;
+    background-color: rgba(197, 197, 226, 0.737);
+    margin: 3%;
+    border-radius: 5px;
+color: blueviolet;
+
+}
+.beau{
+    position: relative;
+    top: -50%;
+    display: flex;
+    flex-direction: row;
+    background-color: #0f1923;
+    padding: 60px ;
+    color: rgb(30, 30, 252);
+    
+}
+.images{
+    margin: 0%;
+}

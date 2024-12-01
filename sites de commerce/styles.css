@@ -1,0 +1,91 @@
+body {
+    background-color:
+    #0f1923 ;
+    
+}
+a{
+    text-decoration: none;
+    list-style: none ;
+    color: white ;
+}
+nav li {
+    list-style: none ;
+    align-items: center;
+    position: relative;
+    left: 50%;
+}
+.logo{
+    margin: 5px;
+
+}
+nav ul{
+   display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  
+header{
+    
+  
+    
+    display: flex;
+    justify-content: space-between;
+    height: 4rem ;
+    background-color: rgb(77, 77, 202);
+    font-size: 1.1rem;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+.haut{
+    display: flex;
+   color:  #0f1923;
+   background-color: rgb(250, 244, 244);
+    
+    border-radius: 5px;
+    margin: 15;
+}
+img{
+    position: relative;
+    left: 30%;
+    padding: 45px;
+    margin: 4%;
+   
+}
+.produits{
+    position: relative;
+    right: 11%;
+    padding: 40px;
+    margin: 5%;
+    
+}
+.aceuil{
+    padding: 12px;
+}
+.chapeau{
+   
+    justify-content: space-between;
+    padding: 30px;
+    color: aliceblue;
+    font-family: systeme-ui,sans-serif;
+}
+.moto{
+    padding: 12px;
+}
+.abonner{
+    position: relative;
+    left: -3%;
+    padding: 6px;
+}
+.abonner button{
+    padding: 9px;
+    background-color: #0f1923;
+    color: white;
+    border-radius: 5px;
+     border: solid white;
+}
